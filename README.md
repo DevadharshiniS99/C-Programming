@@ -4,6 +4,7 @@
 "DAY-04"-I learnt to perform subtraction operation in both Python and C Programming.
 "DAY-05"-I learnt to perform multiplication operation in both Python and C Programming.
 "DAY-06"-I learnt to perform division in both Python and C Programming.
+"DAY-07"-I learnt condition statement (if-elif-else) and I find the largest of three numbers by asking the input from the user in C and Python programming.
 
 
 
